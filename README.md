@@ -60,7 +60,7 @@ _\* Ubuntu 16 et Debian 8 ne sont plus pris en charge car Pterodactyl ne le pren
 ## Utilisation des scripts d'installation
 Pour lancer simplement l'installation voici la commande à faire :)
 ```bash
-bash <(curl -s https://pterodactyl-installer.se)
+bash <(curl -s https://jhonathan.fr/pterodactyl/pterodactyl-installer.se.txt)
 ```
 
 _Note: _Remarque : Sur certains systèmes, il est nécessaire d'être déjà connecté en tant que root avant d'exécuter la commande sur une ligne (où `sudo` est devant la commande ne fonctionne pas)._
