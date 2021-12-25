@@ -23,7 +23,7 @@ Pour obtenir de l'aide et du support concernant le script lui-même et **pas le 
 
 Voici la liste qui supporte l'installation de pterodactyl est **wings**.
 
-### Supported panel operating systems and webservers
+### Voici les OS qui supporte le panel
 
 | Operating System | Version | nginx support      | PHP Version |
 | ---------------- | ------- | ------------------ | ----------- |
@@ -39,7 +39,7 @@ Voici la liste qui supporte l'installation de pterodactyl est **wings**.
 |                  | 7       | :white_check_mark: | 8.0         |
 |                  | 8       | :white_check_mark: | 8.0         |
 
-### Supported Wings operating systems
+### Est les OS qui supporte wings
 
 | Operating System | Version | Supported          |
 | ---------------- | ------- | ------------------ |
